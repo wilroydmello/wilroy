@@ -1,5 +1,5 @@
 <?php
-namespace wilroy\core\config;
+namespace wilroy;
 class config
 {
 	function getConfigVars()

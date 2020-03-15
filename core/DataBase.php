@@ -2,7 +2,7 @@
 /**
 * this is db.php database application.
 */
-namespace wilroy\core\DataBase;
+namespace wilroy;
 use \PDO;
 /**
  * This is db class to insert and update
