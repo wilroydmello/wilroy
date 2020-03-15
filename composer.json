@@ -1,0 +1,18 @@
+{
+    "name": "wilroydmello/wilroy",
+    "description": "This library will help to use general database functions.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wilson Dmello",
+            "email": "wilroydmello@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "wilroy\\" : "core/"
+        }
+    },
+    "require": {}
+}
