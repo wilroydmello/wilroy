@@ -10,9 +10,9 @@
         }
     ],
     "autoload" : {
-        "psr-4" : {
-            "wilroy\\" : "core/"
-        }
+        "files" : [
+            "autoloader.php"
+        ]
     },
     "require": {}
 }
