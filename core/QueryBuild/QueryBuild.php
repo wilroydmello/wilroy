@@ -3,8 +3,8 @@ namespace wilroy\core\QueryBuild;
 
 class QueryBuild{
 
-    function createTable($buildType){
-
+    function create($name , closure $table){
+        echo $table->name;
     }
 
     
